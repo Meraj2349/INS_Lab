@@ -1,0 +1,7 @@
+This is a sample text file for hash function analysis.
+We will test the avalanche effect of MD5 and SHA256 hash functions.
+The avalanche effect means that a small change in input should produce
+a dramatically different output hash value.
+This property is crucial for cryptographic hash functions.
+Information security is the practice of protecting information
+by mitigating information risks and vulnerabilities.

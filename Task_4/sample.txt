@@ -1,0 +1,4 @@
+Hello, this is a sample text file for testing cryptographic operations.
+This file contains multiple lines of text.
+We can use this to test AES encryption, RSA encryption, digital signatures, and hashing.
+Cryptography is the science of secure communication!
